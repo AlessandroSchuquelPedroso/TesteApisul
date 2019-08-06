@@ -1,0 +1,7 @@
+C:\Users\Alessandro\Documents\projectTestApi\testeApisul\testeApisul\bin\Debug\testeApisul.exe.config
+C:\Users\Alessandro\Documents\projectTestApi\testeApisul\testeApisul\bin\Debug\testeApisul.exe
+C:\Users\Alessandro\Documents\projectTestApi\testeApisul\testeApisul\bin\Debug\testeApisul.pdb
+C:\Users\Alessandro\Documents\projectTestApi\testeApisul\testeApisul\obj\Debug\testeApisul.csprojAssemblyReference.cache
+C:\Users\Alessandro\Documents\projectTestApi\testeApisul\testeApisul\obj\Debug\testeApisul.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Documents\projectTestApi\testeApisul\testeApisul\obj\Debug\testeApisul.exe
+C:\Users\Alessandro\Documents\projectTestApi\testeApisul\testeApisul\obj\Debug\testeApisul.pdb
